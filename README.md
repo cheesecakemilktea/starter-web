@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Yehey! Yehey! WOhoo
+This repository is for showing how Git and GitHub work. Yehey! Yehey! WOhoo. Adding a line for rebasing.
+This repository is for showing how Git and GitHub work. Yehey! Yehey! WOhoo. Adding a line for rebasing.
 
 ## Introduction
 
