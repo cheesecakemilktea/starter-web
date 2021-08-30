@@ -16,6 +16,8 @@ Sample.
 
 ##How to Contribute
 
+Please fork this repository 
+
 ###Copyright
 
 2021 Git.Training
